@@ -1,0 +1,23 @@
+nick:
+
+  min-length: 3
+  max-length: 16
+
+  blacklist:
+    - admin
+    - owner
+    - staff
+
+messages:
+
+  no-permission: "&cNo permission."
+  nick-set: "&aNickname updated!"
+  nick-reset: "&cNickname removed!"
+  
+  random-nicks:
+
+  - ShadowXD
+  - DarkPvP
+  - Nebula_
+  - DragonKill
+  - PvPMaster

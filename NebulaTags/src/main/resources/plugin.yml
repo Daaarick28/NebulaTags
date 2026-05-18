@@ -1,0 +1,43 @@
+name: NebulaTags
+version: 1.0
+main: dev.nebulatags.NebulaTags
+author: NebulaTags
+softdepend:
+  - PlaceholderAPI
+  - ProtocolLib
+  - LuckPerms
+
+commands:
+
+  nick:
+    description: Change your nickname
+
+  unnick:
+    description: Reset your nickname
+
+permissions:
+
+randomnick:
+  description: Get a random nickname
+  
+  nebulatags:
+  description: Main command
+
+  nickgui:
+  description: Open nick GUI
+
+  fakerank:
+  description: Set fake rank
+  
+  skin:
+  description: Set fake skin
+
+
+  nebulatags.nick:
+    default: true
+
+  nebulatags.unnick:
+    default: true
+
+  nebulatags.admin:
+    default: op

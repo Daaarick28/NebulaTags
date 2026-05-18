@@ -1,0 +1,13 @@
+no-permission: "&cNo permission."
+
+nick-set: "&aYour nickname is now &f%nick%"
+nick-reset: "&cNickname removed."
+
+invalid-length: "&cInvalid nickname length."
+blacklisted-nick: "&cThis nickname is blocked."
+
+nick-usage: "&c/nick <name>"
+
+random-nick: "&aYour random nickname is now &f%nick%"
+
+cooldown: "&cWait &f%time%s &cbefore using this again."
